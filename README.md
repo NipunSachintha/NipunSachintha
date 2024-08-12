@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there I'm Nipun Sachintha 👋
+🌱 I’m currently studying in the Department of Computer Science and Engineering University of Moratuwa
 <!--
 **NipunSachintha/NipunSachintha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
