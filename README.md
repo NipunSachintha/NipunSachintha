@@ -1,6 +1,6 @@
 ## Hi there I'm Nipun Sachintha 👋
-🌱 I’m currently studying in the Department of Computer Science and Engineering University of Moratuwa</br>
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/98500595-3ca5-47a8-9088-51d5c313bd2a)
+🌱 I’m currently studying in the Department of Computer Science and Engineering at the University of Moratuwa
+
 
 
 
