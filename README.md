@@ -1,7 +1,7 @@
 ## Hi there I'm Nipun Sachintha 👋
 🌱 I’m currently studying in the Department of Computer Science and Engineering at the University of Moratuwa
 
-### 👨‍💻 Languages and Tools
+### Languages and Tools
 
 <br />
 
@@ -22,6 +22,19 @@
 
 
 
+
+### Git Stats
+<br />
+
+<div align="center">
+ 
+  <img src="https://streak-stats.demolab.com/?user=NipunSachintha&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NipunSachintha&custom_title=Nipun's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<br>
+<div align="center">
+
+</div>
 
 <!--
 **NipunSachintha/NipunSachintha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
